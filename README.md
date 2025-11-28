@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MeiruiJiang&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="120">  -->
 
-Hi 👋! Here is **Meirui Jiang**, I am currently a Post-doctoral Fellow at the [CSE](http://www.cse.cuhk.edu.hk/), [CUHK](http://www.cuhk.edu.hk/). 
+Hi 👋! I’m Thu Thuy Le (Shui Lee), currently a final-year student at FPT University.
+For nearly two years, I have been conducting research in federated learning for medical image analysis, focusing on privacy-preserving, robust, and scalable learning systems for real-world clinical environments.
 
-I'm currently on the job market. Please reach out if you think I would be a good fit. Thank you!
+My work lies at the intersection of machine learning and healthcare, with an emphasis on topics such as decentralized training, semi-supervised and partially-labeled learning, cross-institutional collaboration, and secure FL frameworks. I am deeply motivated by the challenge of building models that remain reliable, efficient, and generalizable across diverse medical centers while respecting strict privacy constraints.
 
-My research centers around the intersection of machine learning and healthcare, with a particular focus on medical image analysis. I am driven by a strong desire to enhance the applicability of machine learning algorithms, with a focus on their robustness, efficiency, generalizability, reliability, and privacy. In particular, I am passionate about leveraging large distributed datasets to empower real-world applications in the healthcare domain. By exploring this interdisciplinary realm, I aim to contribute to advancing machine learning techniques and their transformative impact on healthcare practices.
-
-I am always open to engaging in discussions and collaborations. Please feel free to reach out to me via email :)
-
-Please learn more about me from my [personal website](https://meiruijiang.github.io/MeiruiJiang/).
+I am always excited to discuss new ideas, exchange knowledge, or collaborate on impactful research projects.
+Feel free to reach out to me anytime!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MeiruiJiang) 
